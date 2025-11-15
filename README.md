@@ -14,7 +14,7 @@ Run this single command to download and execute the hardening script:
 
 bash
 Copy
-Edit
+Edit   
 wget -O ./install.sh https://condu.ro/install.sh && chmod +x ./install.sh && sudo ./install.sh
 Fetches the latest version.
 
